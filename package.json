@@ -1,1 +1,22 @@
-{"name":"black-matrix-os","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview","check":"tsc --noEmit"},"dependencies":{"@react-three/drei":"latest","@react-three/fiber":"latest","@supabase/supabase-js":"latest","react":"latest","react-dom":"latest","three":"latest"},"devDependencies":{"@vitejs/plugin-react":"latest","typescript":"latest","vite":"latest","@types/react":"latest","@types/react-dom":"latest","@types/three":"latest"}}
+{
+  "name": "black-matrix-os",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview", "check": "tsc --noEmit" },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "latest"
+  }
+}
